@@ -65,11 +65,11 @@ There are two different graphs plotted for minimum and maximum input common mode
 
 **Frequency Response for Vcm=0.6V**
 
-![gain_phase_plot_Vin_600mV](https://github.com/user-attachments/assets/acf35639-c509-4cc9-a4ef-929b8b7a91a8)
+![gain_phase_plot_Vin_600mV](https://github.com/user-attachments/assets/917a0943-9aa2-4b13-94ad-e35a37dbbf81)
 
 **Frequency Response for Vcm=1V**
 
-![gain_phase_plot_Vin_1V](https://github.com/user-attachments/assets/5a5438e4-d7c6-4c44-a2ce-dc73255fe5b6)
+![gain_phase_plot_Vin_1V](https://github.com/user-attachments/assets/5cc84c69-e778-4db3-802d-736baf555513)
 
 Exact values of parameters obtained is shown in the **Hand Calculations and Design Analysis** document at the end of this README file (pdf also attached above).
 All results obtained were in accordance with the design specification limits, which can be verified from the provided plot images. The detailed markings on the plots aid in understanding the operational characteristics of the amplifier.
@@ -82,5 +82,5 @@ This project highlights the importance of iterative design and simulations in op
 
 
 ## Hand Calculations and Design Analysis Document
-![test_schematic111](https://github.com/user-attachments/assets/361f651a-a298-4381-9201-e9fbb10aea29)
-![2 Stage OP-AMP](https://github.com/user-attachments/assets/6c405013-a76f-41e3-901a-92ef6f6e95e9)
+![test_schematic111](https://github.com/user-attachments/assets/19a8662a-f366-4641-bb2b-65515e5e1093)
+![2 Stage OP-AMP](https://github.com/user-attachments/assets/33b959f0-c8d1-4e74-883c-be439e6f16a2)
